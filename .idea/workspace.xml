@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9016f9b5-d470-441d-9afd-13f524ca0b4e" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_04_10998.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_05_1008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_06_10879.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,32 +51,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.chpa01 [:org.example.Question_01_2557.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.chpa01 [:org.example.Question_02_1000.main()].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/easy/Desktop/개인 폴더/backjoon&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/easy/Desktop/개인 폴더/backjoon/chpa01/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Question_01.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Question_02.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.chpa01 [:org.example.Question_01_2557.main()].executor": "Run",
+    "Gradle.chpa01 [:org.example.Question_02_1000.main()].executor": "Run",
+    "Gradle.chpa01 [:org.example.Question_05_1008.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "test",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/easy/Desktop/개인 폴더/backjoon",
+    "onboarding.tips.debug.path": "/Users/easy/Desktop/개인 폴더/backjoon/chpa01/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Question_01.executor": "Run",
+    "애플리케이션.Question_02.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일&quot;: [
-      &quot;JAVA&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
+      "JAVA"
     ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,7 +97,8 @@
       <workItem from="1769668968951" duration="77000" />
       <workItem from="1769669048653" duration="2144000" />
       <workItem from="1769672784529" duration="1920000" />
-      <workItem from="1770017684636" duration="266000" />
+      <workItem from="1770017684636" duration="543000" />
+      <workItem from="1770018230621" duration="23000" />
     </task>
     <servers />
   </component>
