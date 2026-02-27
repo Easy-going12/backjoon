@@ -5,7 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9016f9b5-d470-441d-9afd-13f524ca0b4e" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/BackJoon/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_01_2557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_02_1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_03_1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_04_10998.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_05_1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_06_10879.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_07_10926.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_08_18108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_09_10430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_10_2588.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_11_11382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_12_10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap01/Question_13_10172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackJoon/src/main/java/chap02/Question_01_1330.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/9.0.0/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/9.0.0/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/9.0.0/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/9.0.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/9.0.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/9.0.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/9.0.0/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/9.0.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/build/classes/java/main/org/example/Question_01_2557.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/build/classes/java/main/org/example/Question_02_1000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_01_2557.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_02_1000.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_03_1001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_04_10998.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_05_1008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_06_10879.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_07_10926.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_08_18108.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_09_10430.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_10_2588.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_11_11382.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_12_10171.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chpa01/src/main/java/org/example/Question_13_10172.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +158,8 @@
       <workItem from="1770272321066" duration="1722000" />
       <workItem from="1770704366208" duration="673000" />
       <workItem from="1770771276675" duration="2052000" />
-      <workItem from="1771894197147" duration="318000" />
+      <workItem from="1771894197147" duration="509000" />
+      <workItem from="1771980145115" duration="344000" />
     </task>
     <servers />
   </component>
